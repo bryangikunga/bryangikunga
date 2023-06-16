@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bryangikunga
 - 👀 I’m interested in .software engineering ..
-- 🌱 I’m currently learning ..c language .
+- 🌱 I’m currently learning ..c, python, kotlin language .
 - 💞️ I’m looking to collaborate on ...any available c programming projects
 - 📫 How to reach me ...bryangikunga@gmail.com 
 
